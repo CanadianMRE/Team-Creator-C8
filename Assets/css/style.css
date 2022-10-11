@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    background-color: rgb(255, 79, 79);
+    padding: 70px;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+}
+
+.card {
+    margin: 20px;
+}
+
+#cardSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
